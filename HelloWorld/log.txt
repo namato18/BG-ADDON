@@ -1,0 +1,4 @@
+Creating scheduled task... 
+schtasks /create /tn "WOWOWOWOWOWOW" /tr "E:\World of Warcraft\_retail_\Interface\AddOns\HelloWorld\dist\log_watch\log_watch.exe" /sc "ONSTART" /rl HIGHEST /f 
+SUCCESS: The scheduled task "WOWOWOWOWOWOW" has successfully been created.
+Scheduled task creation completed. 
