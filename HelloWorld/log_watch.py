@@ -94,5 +94,5 @@ def watch_file_changes(filename):
 
 if __name__ == "__main__":
     import os
-    filename = "E:/World of Warcraft/_retail_/WTF/Account/AMATMIK/SavedVariables/HelloWorld.lua"
-    watch_file_changes(filename)
+    # filename = "E:/World of Warcraft/_retail_/WTF/Account/AMATMIK/SavedVariables/HelloWorld.lua"
+    watch_file_changes(lua_file_path)
